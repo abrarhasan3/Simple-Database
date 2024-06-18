@@ -1,0 +1,1 @@
+This is a database project based on the concept of Stock Market. The file contains several SQL queries to find maximum price holding stock, profit, loss, owner finding etc. This was built in Oracle 10G express edition. 
